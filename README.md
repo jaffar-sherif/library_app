@@ -1,6 +1,6 @@
 ## Library Managment App
 
-Library managment system demo
+this is demo library managment system
 
 #### License
 
